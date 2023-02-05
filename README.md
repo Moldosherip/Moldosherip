@@ -7,7 +7,7 @@
   <a href="https://headhunter.kg/resume/4249b3d4ff0b8b8ff80039ed1f484874466f78">
   <img src="https://img.shields.io/badge/Headhunter-red?logo=headhunter&logoColor=white&style=for-the-badge" alt="Headhunter Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/baiel-moldosherip-599a58257">
+  <a href="https://www.linkedin.com/in/baiel-moldosherip-038317264/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     </div>
@@ -29,7 +29,7 @@
 
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Baiel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/baiel-moldosherip-599a58257)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Baiel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/baiel-moldosherip-038317264/)
   
     ---
     
